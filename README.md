@@ -47,7 +47,7 @@ From the data, a final report was generated and included the following:
   * Overall Passing Rate (Average of the above two)
 
 
-### Math Scores by Grade\*\*
+### Math Scores by Grade
 
 * Created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
