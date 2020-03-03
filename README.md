@@ -4,7 +4,7 @@ Pandas script was written to analyze two sample sets of data (schoos_complete.cs
 
 Pandas was used to aggregate the data. Different trends in school performance were identified as the result of this analysis. 
 
-From the data, a final report was generated and included the following:
+From the data, the following summaries were generated.
 
 ### District Summary
 
