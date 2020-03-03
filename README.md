@@ -9,6 +9,7 @@ From the data, a final report was generated and included the following:
 ### District Summary
 
 * High level snapshot (in tablular form) of the district's key metrics, such as
+
   * Total Schools
   * Total Students
   * Total Budget
@@ -21,6 +22,7 @@ From the data, a final report was generated and included the following:
 ### School Summary
 
 * Overview table that summarized key metrics about each school, such as
+
   * School Name
   * School Type
   * Total Students
@@ -35,6 +37,7 @@ From the data, a final report was generated and included the following:
 ### Top Performing Schools (By Passing Rate)
 
 * Identified the top 5 and bottom 5 performing schools based on Overall Passing Rate and collected their
+
   * School Name
   * School Type
   * Total Students
@@ -57,12 +60,14 @@ From the data, a final report was generated and included the following:
 
 ### Scores by School Spending, School Size, and School Type
 
-* Created tables that breaks down school performances based on 
+* Created tables that breaks down school performances based on
+
   * average Spending Ranges (Per Student). 
   * school size (Small, Medium, Large)
   * school type (Charter vs. District)
   
 * Summarized the results based on the following:
+
   * Average Math Score
   * Average Reading Score
   * % Passing Math
