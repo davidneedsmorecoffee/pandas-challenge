@@ -1,4 +1,4 @@
-# Analysis of test results using Pandas
+# Analysis of student testing results using Pandas
 
 Pandas script was written to analyze two sample sets of data (schoos_complete.csv, students_complete.csv). The data set contains student's math and reading scores, as well as various information on the schools they attend. 
 
