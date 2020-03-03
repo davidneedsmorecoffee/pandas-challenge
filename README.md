@@ -34,7 +34,7 @@ From the data, a final report was generated and included the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Top Performing Schools (By Passing Rate)
+### Top and Bottom 5 Performing Schools (By Passing Rate)
 
 * Identified the top 5 and bottom 5 performing schools based on Overall Passing Rate and collected their
 
