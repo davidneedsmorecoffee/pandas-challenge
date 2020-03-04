@@ -36,7 +36,7 @@ From the data, the following summaries were generated.
 
 ### Top and Bottom 5 Performing Schools (By Passing Rate)
 
-* Identified the top 5 and bottom 5 performing schools based on Overall Passing Rate and collected their
+* Identified the top 5 and bottom 5 performing schools based on Overall Passing Rate and created a summary based on
 
   * School Name
   * School Type
