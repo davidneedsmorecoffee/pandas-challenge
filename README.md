@@ -2,7 +2,8 @@
 
 Pandas script was written to analyze two sample sets of data (schoos_complete.csv, students_complete.csv). The data set contains students math and reading scores, as well as various information on the schools they attend, e.g., school size, school budget, total number of students, etc.
 
-Pandas was used to aggregate the data. Different trends in school performance were identified as the result of this analysis. 
+Pandas was used to examine and aggregate the data. 
+Different trends in school performance were identified as the result of this analysis. 
 
 From the data, the following summaries were generated.
 
