@@ -5,7 +5,7 @@ Pandas script was written to analyze two sample sets of data (schoos_complete.cs
 Pandas was used to examine and aggregate the data. 
 Different trends in school and student performance were identified as the result of this analysis. 
 
-From the data, the following summaries were generated.
+From the data, the following summaries were generated. See the `PyCitySchools_DL_clean.ipynb` file in the Code folder for complete output and interpretation.
 
 ### District Summary
 
